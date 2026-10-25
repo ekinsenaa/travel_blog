@@ -1,0 +1,14 @@
+BLM2537 - CSS ile Sayfa Tasarımı (3 saatlik ders)
+Not Takip projesi: CSS uygulamalarının adım adım bitmiş halleri
+
+baslangic        HTML haftasının son hali (CSS yok). Buradan başlayın.
+css-adim-1       Uygulama 1: stil.css dosyasını bağlama, ilk kurallar
+css-adim-2       Uygulama 2: Renk paleti (CSS değişkenleri) ve yazı ayarları
+css-adim-3       Uygulama 3: Kutu modeli, tablo ve form stilleri
+css-adim-4       Uygulama 4: Flexbox ile üst bölüm ve menü (+ aktif sınıfı)
+css-adim-5       Uygulama 5: Medya sorgusu (telefon görünümü) ve JS için sınıflar
+odev-grid-cozum  Ödev çözümü: ana sayfa bölümleri Grid ile kart düzeninde
+
+Kullanım: Klasörü VS Code ile açın (File > Open Folder), index.html
+dosyasını açıp sağ alttaki "Go Live" düğmesine basın.
+Telefon görünümü: Tarayıcıda F12, ardından Ctrl+Shift+M.

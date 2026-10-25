@@ -1,0 +1,42 @@
+:root {
+    --ana-renk: #20438e;
+    --vurgu-renk: #fc9611;
+    --baglanti-renk: #1D7066;
+    --zemin: #fff8d5;
+    --metin: #1F2937;
+    --kenar: #D0D5DD;
+}
+
+body {
+    font-family: "Segoe UI", Italic, sans-serif;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: var(--metin);
+    background-color: var(--zemin);
+}
+
+h1, h2 {
+    color: var(--ana-renk);
+}
+
+h2 {
+    font-size: 1.4rem;
+}
+
+a {
+    color: var(--baglanti-renk);
+}
+
+a:hover {
+    color: var(--vurgu-renk);
+}
+
+.vurgu {
+    color: var(--vurgu-renk);
+    font-weight: bold;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.9rem;
+}
