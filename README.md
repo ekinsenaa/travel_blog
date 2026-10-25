@@ -1,4 +1,4 @@
-# Gezgin Notları
+# Ekin Sena Gündoğdu 25290350
 
 Ağ tabanlı programlama dersi kapsamında geliştirdiğim seyahat blogu.
 
