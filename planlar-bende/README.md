@@ -9,6 +9,11 @@ Drive Klasörü: https://drive.google.com/drive/folders/1_-A6mxV-j2rLT1CbZPlaIBD
 | Hafta | Konu | Video |
 |---|---|---|
 | 1 | Proje iskeleti, GitHub kurulumu, index.html, css| Drive Link(https://drive.google.com/file/d/14fC95kwh3bNB6ZjtAjztFP1QCM5tEtdq/view?usp=share_link) |
+<<<<<<< HEAD
 | 2 | Site adı, alt sayfalar, css geliştirme, değişen detaylar| Drive Link(https://drive.google.com/file/d/11c-rNVMkaWEUVGDT0yItb07U2YFU-z_4/view?usp=share_link) |
 | 3 | Resimler eklendi, metinler düzenlendi, css geliştirildi, puanlandırmalar yapıldı| Drive Link(https://drive.google.com/file/d/1PSReRDLRgSzoCmbTnUd0ux0CRySACUqD/view?usp=share_link) |
 | 4 | CSS cilası: okunabilirlik, kart hareketi, puan renkleri, mobil uyum | Video linki buraya gelecek |
+=======
+| 2 | Site adı, alt sayfalar, css geliştirme, değişen dataylar| Drive Link(https://drive.google.com/file/d/11c-rNVMkaWEUVGDT0yItb07U2YFU-z_4/view?usp=share_link) |
+| 3 | Resimler eklendi, metinler düzenlendi, css geliştirildi, puanlandırmalar yapıldı| Drive Link(https://drive.google.com/file/d/1PSReRDLRgSzoCmbTnUd0ux0CRySACUqD/view?usp=share_link) |
+>>>>>>> 367d164761a2ce91ad0964b4128bd3779a687d59
