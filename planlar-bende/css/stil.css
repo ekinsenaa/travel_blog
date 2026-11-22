@@ -38,6 +38,10 @@ h1 { font-size: 2.4rem; margin-top: 0; }
 h2 { font-size: 1.6rem; }
 h3 { font-size: 1.2rem; }
 
+p, li {
+    max-width: 65ch;
+}
+
 a {
     color: var(--bordo);
     font-weight: bold;
@@ -46,6 +50,11 @@ a {
 a:hover {
     background-color: var(--bordo);
     color: var(--krem);
+}
+
+a:focus {
+    outline: 3px solid var(--bordo);
+    outline-offset: 2px;
 }
 
 img {
@@ -102,6 +111,10 @@ nav a.aktif {
     color: var(--kahve);
 }
 
+nav a:focus {
+    outline-color: var(--krem);
+}
+
 /* ---------- Ana içerik (çizgilerin üstünde düz bir kutu) ---------- */
 main {
     max-width: 960px;
@@ -135,6 +148,7 @@ section {
     background-color: var(--mavi);
     border: 2px solid var(--kahve);
     border-radius: 16px;
+    transition: transform 0.2s;
 }
 
 .kart img {
@@ -149,6 +163,26 @@ section {
 
 .kart p {
     margin: 4px 0;
+}
+
+.kart:hover {
+    transform: translateY(-4px);
+}
+
+.puan {
+    color: var(--bordo);
+    letter-spacing: 2px;
+}
+
+/* ---------- Yazı sayfası ---------- */
+article img {
+    display: block;
+    width: 100%;
+    margin: 20px 0;
+}
+
+article h2 {
+    margin-top: 32px;
 }
 
 /* ---------- Tablo ---------- */
@@ -229,7 +263,7 @@ footer {
 }
 
 footer p {
-    margin: 0;
+    margin: 0 auto;
 }
 
 /* ---------- JavaScript'te kullanacağımız sınıflar ---------- */
