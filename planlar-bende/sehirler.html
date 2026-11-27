@@ -6,6 +6,7 @@
     <title>Şehirler - Planlar Bende</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:wght@400;700&display=swap">
     <link rel="stylesheet" href="css/stil.css">
+    <script src="js/script.js" defer></script>
 </head>
 <body>
     <header>
@@ -22,6 +23,40 @@
     </header>
     <main>
         <h1>Şehirler</h1>
+        <section id="sehir-ekle">
+    <h2>Yeni şehir ekle</h2>
+    <button type="button" id="kaydet">Kaydet</button>
+        <p>
+            <label for="sehirAdi">Şehir</label><br>
+            <input type="text" id="sehirAdi" name="sehirAdi" placeholder="Örn. Ordu">
+        </p>
+        <p>
+            <label for="ulke">Ülke</label><br>
+            <input type="text" id="ulke" name="ulke" placeholder="Örn. Türkiye">
+        </p>
+        <p>
+            <label for="tarih">Tarih</label><br>
+            <input type="date" id="tarih" name="tarih">
+        </p>
+        <p>
+            <label for="puan">Puan</label><br>
+            <select id="puan" name="puan">
+                <option value="">Seçiniz</option>
+                <option value="1">1 yıldız</option>
+                <option value="2">2 yıldız</option>
+                <option value="3">3 yıldız</option>
+                <option value="4">4 yıldız</option>
+                <option value="5">5 yıldız</option>
+            </select>
+        </p>
+        <p>
+            <label for="notu">Kısa not</label><br>
+            <textarea id="notu" name="notu" rows="3"></textarea>
+        </p>
+        <p id="mesaj" class="gizli"></p>
+        <button type="submit">Kaydet</button>
+    </form>
+</section>
         <p>Gittiğim her yerin kısa günlüğü.</p>
         <div class="tablo-kutu">
             <table>
