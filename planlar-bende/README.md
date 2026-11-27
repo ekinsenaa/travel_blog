@@ -12,3 +12,4 @@ Drive Klasörü: https://drive.google.com/drive/folders/1_-A6mxV-j2rLT1CbZPlaIBD
 | 2 | Site adı, alt sayfalar, css geliştirme, değişen detaylar| Drive Link(https://drive.google.com/file/d/11c-rNVMkaWEUVGDT0yItb07U2YFU-z_4/view?usp=share_link) |
 | 3 | Resimler eklendi, metinler düzenlendi, css geliştirildi, puanlandırmalar yapıldı| Drive Link(https://drive.google.com/file/d/1PSReRDLRgSzoCmbTnUd0ux0CRySACUqD/view?usp=share_link) |
 | 4 | CSS cilası: okunabilirlik, kart hareketi, puan renkleri, mobil uyum | https://drive.google.com/file/d/14cEkZr5aJX3zmqT6ao92SwZj1bJVTcPb/view?usp=share_link |
+| 5 | JavaScript'e giriş, şehir ekleme formunun hazırlanması.| drive |
